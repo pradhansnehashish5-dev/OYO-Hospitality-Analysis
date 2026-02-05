@@ -22,3 +22,5 @@ Dashboard Creation: I designed an interactive command center that integrates Gau
 ## = **Project KPI:**
 
 In this project, I analyzed 5,778 bookings across 10 cities to monitor a ₹5.12K average booking value and a 32.04% cancellation rate. These KPIs help identify revenue-rich markets like Mumbai and high-attrition zones like Noida to optimize OYO's operational efficiency.
+
+![OYO-Hospitality-Analysis](OYO_Dashboard.png)
