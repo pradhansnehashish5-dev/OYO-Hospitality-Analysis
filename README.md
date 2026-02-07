@@ -18,7 +18,7 @@ Data Visualization: I developed specialized charts in Power BI, including a Funn
 Enhanced Formatting: To maintain brand consistency, I applied OYO’s signature red-and-white color palette across all visuals and used the Format Painter to ensure a uniform, professional design throughout the report.
 
 Dashboard Creation: I designed an interactive command center that integrates Gauge Charts for KPI tracking (Total Bookings and Cancellation Rates) and Slicers for City and Month, allowing stakeholders to drill down into specific regional performance.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## = **Project KPI:**
 
 In this project, I analyzed 5,778 bookings across 10 cities to monitor a ₹5.12K average booking value and a 32.04% cancellation rate. These KPIs help identify revenue-rich markets like Mumbai and high-attrition zones like Noida to optimize OYO's operational efficiency.
